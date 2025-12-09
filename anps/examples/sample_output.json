@@ -1,0 +1,14 @@
+[
+    {
+        "port": 80,
+        "status": "open",
+        "banner": "nginx"
+    }
+]
+[
+    {
+        "port": 80,
+        "status": "open",
+        "banner": "nginx"
+    }
+]
